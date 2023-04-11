@@ -1,5 +1,5 @@
 {
-    "name": "chavyleung",
+    "name": "jh-own",
     "description": "https://github.com/chavyleung/scripts",
     "task": [
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png, enabled=true",
