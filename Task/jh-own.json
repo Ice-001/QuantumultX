@@ -86,7 +86,7 @@
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/yzkbSign.js, tag= 柚子快报, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/yzkb.png, enabled=true",    
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js, tag=追书畅读版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/zscdb.png, enabled=true",
         "0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zymkSign.js, tag= 知音漫客, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/zymk.png, enabled=true",    
-         "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/birthday.png, enabled=true",
+        "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/birthdayCountDown/index.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/birthday.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/dompling/Script/master/biyao/biyao.js, tag=必要, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/biyao.png, enabled=true",
         "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png, enabled=true",
         "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/calendar.png, enabled=true",
